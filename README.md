@@ -1,5 +1,5 @@
 ####  Comprehensive Hospital ERP System
-## Overview
+## Overview of the project
 The Integrated Hospital ERP System is a comprehensive software solution designed to improve hospital operations and streamline management across various departments. This system covers essential features like patient management, appointment scheduling, billing, inventory management, and more, all from a single, unified platform.
 
 Built with Django for the backend and React for the frontend, this system is highly modular, easy to deploy, and can be easily customized for different hospital requirements.
